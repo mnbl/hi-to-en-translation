@@ -73,7 +73,7 @@ open "News Headlines Translation Hindi To English.ipynb"
 ```
 This will preprocess the data and train the language translation model.
 
-### Step 3: Run the Flask App
+### Step 4: Run the Flask App
 ```bash
 $ python3 app.py
 ```
